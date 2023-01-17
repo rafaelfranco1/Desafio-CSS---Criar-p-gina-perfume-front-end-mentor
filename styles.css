@@ -1,0 +1,61 @@
+.body {
+    background-color: aqua;
+}
+
+.master {
+    position:relative;
+    display:flex;
+    justify-content: center;
+    align-items :center;
+    
+}
+
+.perfume {
+    display:flex;
+    background-image:url(a.jpg);
+    height: 900px;
+    width: 600px;
+    
+}
+
+.textos {
+    padding:50px;
+   
+    
+}
+
+.textos .edition2 {
+    padding-top:40px;
+    font-size:80px;
+}
+
+.textos .edition3{
+    color:#333;
+    font-size:30px;
+    line-height: 50px;
+}
+
+.textos .edition4{
+    color:green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.textos .edition5{
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-decoration: line-through;
+    
+}
+
+.textos .edition6{
+    background-color:green;
+    text-align: center;
+    color:white;
+    padding:20px;
+    width:100%;
+    border-radius:15px;
+    font-size:25px;
+
+}
